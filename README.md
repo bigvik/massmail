@@ -1,5 +1,6 @@
 # massmail
 
 
-Розсилає листи за шаблоном за списком адрес у таблиці excel
-Sends out template emails to a list of addresses in an excel spreadsheet
+Розсилає листи з шаблоном у html за списком адрес у таблиці excel
+
+Sends out emails with a template in html to a list of addresses in an excel table
